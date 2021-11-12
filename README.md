@@ -1,4 +1,6 @@
-### Hi there 👋
+### 项目介绍
+
+记录一些圣灵带领下的思考。再次被更新~
 
 <!--
 **PaulsTent/PaulsTent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
